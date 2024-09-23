@@ -1,0 +1,1 @@
+TODO consider giving Drift a try for sql https://github.com/simolus3/drift/tree/develop/examples/app
